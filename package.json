@@ -2,6 +2,7 @@
   "name": "liveterm",
   "version": "0.1.0",
   "license": "MIT",
+  "homepage": ".",
   "author": {
     "name": "Vincent Wu",
     "url": "https://cveinnt.com",

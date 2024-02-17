@@ -1,20 +1,19 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "VJS LiveTerm",
+  "name": "VJS Pranavasri",
+  "ascii": "VJS Term",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "vjspranav",
+    "linkedin": "vjspranav"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "pranavasri@live.in",
+  "ps1_hostname": "vjsterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/vjspranav/LiveTerm",
+  "resume_url": "https://vjspranav.dev/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "coffee": "https://www.buymeacoffee.com/vjspranav"
   },
   "colors": {
     "light": {
