@@ -96,7 +96,7 @@ export const echo = async (args: string[]): Promise<string> => {
 };
 
 export const whoami = async (args: string[]): Promise<string> => {
-  return `${config.ps1_username}`;
+  return localStorage.getItem('ps1_username') || `${config.ps1_username}`;
 };
 
 export const ls = async (args: string[]): Promise<string> => {
